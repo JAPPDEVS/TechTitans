@@ -47,7 +47,7 @@
         android:layout_marginBottom="@dimen/_50sdp"
         android:background="@drawable/input_background"
         android:elevation="@dimen/_50sdp"
-        android:text="Войт"
+        android:text="Войти"
         android:textSize="@dimen/_13sdp"
         android:textStyle="bold"
         app:backgroundTint="#0F3643"
